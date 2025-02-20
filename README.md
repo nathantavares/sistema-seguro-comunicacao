@@ -1,1 +1,3 @@
 # sistema-seguro-comunicacao
+
+O projeto "Sistema Seguro de Comunicação" visa garantir a segurança da comunicação entre funcionários de uma empresa, protegendo mensagens sensíveis e credenciais contra acessos não autorizados. O sistema implementa criptografia simétrica (AES), criptografia assimétrica (RSA), hashing de senhas (bcrypt) e autenticação via Tokens JWT para garantir a segurança das informações. O fluxo básico inclui cadastro de usuários, login seguro, envio de mensagens criptografadas e proteção das chaves de criptografia, garantindo que apenas o destinatário correto possa acessar o conteúdo.
